@@ -1,0 +1,7 @@
+echo "printing 123"
+
+mkdir demofile
+
+cd demofile
+
+touch demo123.txt
